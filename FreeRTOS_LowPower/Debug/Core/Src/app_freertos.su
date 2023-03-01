@@ -1,0 +1,3 @@
+../Core/Src/app_freertos.c:60:13:PreSleepProcessing	16	static
+../Core/Src/app_freertos.c:69:13:PostSleepProcessing	16	static
+../Core/Src/app_freertos.c:82:6:vApplicationGetIdleTaskMemory	24	static
